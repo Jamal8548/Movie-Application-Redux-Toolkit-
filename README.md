@@ -14,11 +14,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # React Enthusiast
 <img width="1438" alt="Bildschirmfoto 2022-05-08 um 19 17 07" src="https://user-images.githubusercontent.com/57535574/168287522-876ff70a-053c-4b35-b09e-ded4a69b8ccc.png">
 
-
-# Web App
-<img width="1440" alt="Bildschirmfoto 2022-05-08 um 19 17 17" src="https://user-images.githubusercontent.com/57535574/168287589-a7071925-9b86-415a-9121-c2249eace37e.png">
-
-
 # React Router Dom (For Routing)
 <img width="1431" alt="Bildschirmfoto 2022-05-08 um 19 17 35" src="https://user-images.githubusercontent.com/57535574/168287648-13d2b958-c512-424c-84b2-50bf8c96fd87.png">
 
