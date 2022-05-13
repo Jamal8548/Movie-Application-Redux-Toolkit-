@@ -2,6 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Movie App with Redux
+<img width="1439" alt="Bildschirmfoto 2022-05-08 um 19 15 48" src="https://user-images.githubusercontent.com/57535574/168287099-e69e7805-c6ff-4088-ac33-6d23fd7e5717.png">
+
+# with Sass
+<img width="1436" alt="Bildschirmfoto 2022-05-08 um 19 16 14" src="https://user-images.githubusercontent.com/57535574/168287253-5ace560d-f983-44a9-9b45-e7835540d204.png">
+
+# Responsive Web App
+<img width="1439" alt="Bildschirmfoto 2022-05-08 um 19 16 28" src="https://user-images.githubusercontent.com/57535574/168287394-a048bd52-2359-40fc-8de3-4c562c755f3e.png">
+
+# React Enthusiast
+<img width="1438" alt="Bildschirmfoto 2022-05-08 um 19 17 07" src="https://user-images.githubusercontent.com/57535574/168287522-876ff70a-053c-4b35-b09e-ded4a69b8ccc.png">
+
+
+# Web App
+<img width="1440" alt="Bildschirmfoto 2022-05-08 um 19 17 17" src="https://user-images.githubusercontent.com/57535574/168287589-a7071925-9b86-415a-9121-c2249eace37e.png">
+
+
+# React Router Dom (For Routing)
+<img width="1431" alt="Bildschirmfoto 2022-05-08 um 19 17 35" src="https://user-images.githubusercontent.com/57535574/168287648-13d2b958-c512-424c-84b2-50bf8c96fd87.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
